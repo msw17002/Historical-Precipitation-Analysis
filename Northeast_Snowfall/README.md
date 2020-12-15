@@ -1,2 +1,2 @@
 
-Snowfall interpolations using Kring interpolation w/GHCND and PNS obserations.
+Snowfall interpolations using Kriging interpolation w/GHCND and PNS obserations.
